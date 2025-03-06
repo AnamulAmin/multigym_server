@@ -78,7 +78,7 @@ app.use(
       "https://app.multigympremium.com",
       "https://gymwebsite-pearl.vercel.app",
       "https://multigympremium.com",
-      "https://multigym-web.vercel.app/",
+      "https://multigym-web.vercel.app",
     ],
     methods: ["GET", "POST", "PUT", "DELETE", "PATCH"],
     allowedHeaders: ["Content-Type", "Authorization"],
